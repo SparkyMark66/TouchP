@@ -4,6 +4,8 @@ touchp is a cross-platform command-line tool that extends the functionality of t
 
 This is incredibly useful for quickly creating new script files, notes, or documents with boilerplate content you have copied.
 
+![Screen Shot](https://github.com/SparkyMark66/TouchP/blob/main/ScreenShot.png)
+
 ## **Features**
 
 * **File Creation \& Timestamp Updating**: Works just like the standard touch command.
